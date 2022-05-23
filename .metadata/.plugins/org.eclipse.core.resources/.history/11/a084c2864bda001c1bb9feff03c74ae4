@@ -1,0 +1,14 @@
+import java.util.*;
+
+public class HelloWorld {
+	public static void main(String[] arg)
+	{
+		Scanner sc = new Scanner(Sys)
+		System.out.print("Hello Word!!");
+		System.out.print("Avani");
+	}
+	public static void main1(String[] args) {
+		System.out.print("Hello from main1");
+	}
+//	
+}
